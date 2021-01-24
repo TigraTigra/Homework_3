@@ -10,4 +10,4 @@ def my_func(arg1 , arg2, arg3):
         return arg2 + arg3
 
 print(f'Result - {my_func(int(input("enter first argument ")), int(input("enter second argument ")), int(input("enter third argument ")))}')
-#1
+#12

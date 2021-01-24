@@ -23,4 +23,4 @@ def div(*args):
 
 
 print(f'result  {div()}')
-#1
+#12
